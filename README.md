@@ -1,5 +1,5 @@
 # tasty-nlp-python
-Demo of NLP library spacy for Newcastle Data Science Meetup
+Demo of NLP library spaCy for Newcastle Data Science Meetup
 
 Inspired on the following notebooks:
 
